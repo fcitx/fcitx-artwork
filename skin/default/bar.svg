@@ -14,7 +14,7 @@
    height="20"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="bar.svg"
    inkscape:export-filename="/home/saber/Develop/fcitx/skin/default/input.png"
    inkscape:export-xdpi="90"
@@ -26,24 +26,20 @@
       <stop
          id="stop4415"
          offset="0"
-         style="stop-color:#969696;stop-opacity:1;" />
-      <stop
-         style="stop-color:#b4b4b4;stop-opacity:1;"
-         offset="0.44966444"
-         id="stop4417" />
+         style="stop-color:#c0c3c5;stop-opacity:1;" />
       <stop
          id="stop4419"
          offset="1"
-         style="stop-color:#c8c8c8;stop-opacity:1;" />
+         style="stop-color:#c0c3c5;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3758">
       <stop
-         style="stop-color:#9b9b9b;stop-opacity:1;"
+         style="stop-color:#e1dcda;stop-opacity:1;"
          offset="0"
          id="stop3760" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#eae8e7;stop-opacity:1;"
          offset="1"
          id="stop3762" />
     </linearGradient>
@@ -57,15 +53,6 @@
        y2="59.999996"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99854443,0,0,0.99976033,-1.5172496,0.01396504)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4413"
-       id="linearGradient4411"
-       x1="-1052.3625"
-       y1="59.999577"
-       x2="-1032.3617"
-       y2="59.999577"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -74,17 +61,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="38.357048"
-     inkscape:cy="6.3296934"
+     inkscape:zoom="5.656854"
+     inkscape:cx="69.80194"
+     inkscape:cy="-0.056170746"
      inkscape:document-units="px"
      inkscape:current-layer="g2994"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
      inkscape:window-x="-2"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3780" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -93,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,14 +105,28 @@
          height="119"
          width="19.000849"
          id="rect2988"
-         style="fill:url(#linearGradient3768);fill-opacity:1;stroke:url(#linearGradient4411);stroke-width:0.99999660000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:url(#linearGradient3768);fill-opacity:1;stroke:#bcb7b3;stroke-width:0.99999660000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <rect
          y="1033.3622"
          x="1"
          height="1"
          width="118"
          id="rect4367"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#f6f4f4;fill-opacity:1;stroke:none" />
+      <rect
+         y="1034.3622"
+         x="1"
+         height="17"
+         width="1"
+         id="rect4367-2"
+         style="fill:#f6f4f4;fill-opacity:1;stroke:none" />
+      <rect
+         y="1034.3622"
+         x="118"
+         height="17"
+         width="1"
+         id="rect4367-2-4"
+         style="fill:#f6f4f4;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
