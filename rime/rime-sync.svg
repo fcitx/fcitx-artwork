@@ -22,27 +22,11 @@
      id="defs4">
     <filter
        inkscape:collect="always"
-       id="filter3862">
+       id="filter3762">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="3.1402409"
-         id="feGaussianBlur3864" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3878">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.9870413"
-         id="feGaussianBlur3880" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3896">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.1366483"
-         id="feGaussianBlur3898" />
+         stdDeviation="3.1366485"
+         id="feGaussianBlur3764" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -54,7 +38,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="398.40275"
-     inkscape:cy="217.58689"
+     inkscape:cy="218.59704"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,12 +69,12 @@
      id="layer1"
      transform="translate(-136.57143,-201.64807)">
     <path
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter3862)"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;"
        d="m 343.64489,291.93346 c -67.62952,0 -122.43642,54.8069 -122.43642,122.43643 0,5.71185 0.39707,11.35124 1.1539,16.85509 -43.20189,13.20175 -74.63224,53.40118 -74.63224,100.92454 0,58.26544 47.23347,105.49891 105.49891,105.49891 l 284.10525,0 0,-0.0824 c 56.69601,-1.79036 102.07843,-48.28571 102.07843,-105.41648 0,-51.53927 -36.94078,-94.42481 -85.80028,-103.64443 1.90058,-6.25109 2.92595,-12.90875 2.92595,-19.78104 0,-37.45636 -30.37615,-67.79129 -67.8325,-67.79129 -14.50364,0 -27.9181,4.56771 -38.94393,12.32194 -21.15935,-36.65391 -60.75262,-61.32124 -106.11707,-61.32124 z"
        id="path2987"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3896)"
+       style="fill:#000000;fill-opacity:1;stroke:none;"
        d="m 459.22925,409.31291 -61.69191,71.97389 28.64267,-0.0734 0.25705,90.81196 66.50241,-0.14689 -0.25705,-90.81196 28.64266,-0.0734 -62.09584,-71.68012 z m -164.76881,0.0367 0,90.81196 -28.64268,0 61.91224,71.82701 61.87552,-71.82701 -28.64267,0 0,-90.81196 -66.50241,0 z"
        id="path3884"
        inkscape:connector-curvature="0" />
