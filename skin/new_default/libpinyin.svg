@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="libpinyin.svg"
+   inkscape:export-filename="/home/marguerite/Public/fcitx-artwork/skin/new_default/chttrans_inactive.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.869068"
+     inkscape:cx="32.132612"
+     inkscape:cy="10.77363"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <g
+       id="libpinyin"
+       inkscape:export-xdpi="82.5"
+       inkscape:export-ydpi="82.5">
+      <rect
+         y="1028.3622"
+         x="0"
+         height="24"
+         width="24"
+         id="rect3936"
+         style="fill:none;fill-opacity:1;stroke:none" />
+      <g
+         transform="matrix(0.86380002,0,0,0.86380002,1.6441763,141.69826)"
+         id="g3931">
+        <path
+           style="fill:#176cf4;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path1188"
+           d="m 9.3301919,1028.7772 c -1.0017738,0.037 -2.1254634,0.3726 -2.7249104,1.0917 -0.8719225,1.8578 1.2461815,1 1.4953023,2.2862 0.2491202,1.2861 -1.2460852,1.3573 -1.2460852,1.3573 l 0,0 -6.44256958,0 c 0,0 0.008239,6.389 0.008239,6.389 0,0 0.0711266,1.4952 1.35730608,1.2461 1.0450216,-0.2024 0.6744273,-1.6397 1.4953022,-1.7034 0.1894333,-0.015 0.4425634,0.045 0.7909037,0.2081 0.7190099,0.5994 1.0547333,1.7231 1.0916119,2.7249 0.013614,0.3698 -0.018672,0.7176 -0.082386,1.0216 -0.00163,0.013 -0.00444,0.028 -0.00618,0.041 -0.1116433,0.8643 -0.445661,1.7411 -1.0524786,2.247 -1.8578156,0.8719 -1.0000258,-1.2462 -2.2862059,-1.4953 -0.93710223,-0.1815 -1.22658946,0.5588 -1.31611316,0.9763 l 0,6.7824 c 0,0 6.46522696,-0.052 6.46522566,-0.052 0,0 1.4952054,-0.071 1.2460852,-1.3573 -0.2491208,-1.2862 -2.3651652,-0.4284 -1.4932426,-2.2862 0.599447,-0.719 1.7210769,-1.0547 2.7228507,-1.0916 0.36981,-0.014 0.7176098,0.019 1.0215838,0.082 0.01349,0 0.02769,0 0.04119,0.01 0.864353,0.1116 1.743222,0.4456 2.249132,1.0524 0.871924,1.8578 -1.246182,1.0001 -1.495302,2.2862 -0.249121,1.2862 1.246085,1.3573 1.246085,1.3573 l 6.405496,0 0,-6.7289 c 0.09138,-0.4186 0.38245,-1.1505 1.314054,-0.9701 1.28618,0.2492 0.42839,2.3673 2.286206,1.4953 0.606817,-0.5059 0.940835,-1.3847 1.052478,-2.2491 0.0017,-0.014 0.0045,-0.026 0.0062,-0.039 0.06371,-0.304 0.096,-0.6518 0.08239,-1.0216 -0.03688,-1.0018 -0.372601,-2.1255 -1.091612,-2.7249 -1.857816,-0.8719 -1.000026,1.2462 -2.286206,1.4953 -1.28618,0.2491 -1.357306,-1.2461 -1.357306,-1.2461 l -0.0062,-6.4487 -6.732979,0 c -0.422187,-0.098 -1.118093,-0.395 -0.941261,-1.3079 0.24912,-1.2862 2.365166,-0.4284 1.493242,-2.2862 -0.505912,-0.6068 -1.382719,-0.9409 -2.247072,-1.0525 -0.0135,0 -0.0277,0 -0.04119,-0.01 -0.303974,-0.064 -0.6517741,-0.096 -1.0215842,-0.082 z" />
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+           x="5.6821084"
+           y="1044.4705"
+           id="text3927"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3929"
+             x="5.6821084"
+             y="1044.4705"
+             style="font-size:12px;fill:#ffffff">拼</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
