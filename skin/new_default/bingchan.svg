@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="en.svg"
+   sodipodi:docname="bingchan.svg"
    inkscape:export-filename="/home/marguerite/Public/fcitx-artwork/skin/new_default/chttrans_inactive.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="11.755733"
-     inkscape:cy="14.390693"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-70.577514"
+     inkscape:cy="13.927078"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="bingchan"
      showgrid="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="718"
-     inkscape:window-x="-2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1180"
+     inkscape:window-x="1365"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <metadata
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
          id="text2993"
          y="1048.2684"
          x="0.87109375"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#176cf4;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#659ad1;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
          xml:space="preserve"><tspan
            y="1048.2684"
            x="0.87109375"
