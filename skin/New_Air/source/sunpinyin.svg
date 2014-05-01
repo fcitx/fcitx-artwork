@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sunpinyin.svg"
+   inkscape:export-filename="/home/marguerite/.config/fcitx/skin/openSUSE-default/sunpinyin.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="14.101176"
+     inkscape:cy="11.5625"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3759"
+       width="20"
+       height="19.99999"
+       x="2"
+       y="1030.3622" />
+    <g
+       id="sunpinyin"
+       transform="matrix(0.90651967,0,0,0.90651927,1.121764,97.253818)">
+      <g
+         id="g3978">
+        <path
+           style="fill:#fa9900;fill-opacity:1;stroke:none"
+           d="m 18.1563,1040.3622 c -1.7038,-3.0019 -4.9008,-5.0485 -8.5938,-5.0938 -3.693,0.045 -6.8899,2.0919 -8.5937,5.0938 1.7038,3.0018 4.9007,5.0484 8.5937,5.0937 3.693,-0.045 6.89,-2.0919 8.5938,-5.0937 z"
+           id="path2986-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fabb00;fill-opacity:1;stroke:none"
+           d="m 16.353194,1044.7153 c 0.917842,-3.3274 0.10439,-7.0352 -2.47491,-9.6786 -2.643391,-2.5793 -6.3511091,-3.3926 -9.6784882,-2.4748 -0.9178423,3.3274 -0.1044609,7.0351 2.4748384,9.6785 2.6433914,2.5793 6.3511798,3.3927 9.6785598,2.4749 z"
+           id="path2986-1-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fa6900;fill-opacity:1;stroke:none"
+           d="m 16.353164,1036.009 c -3.327379,-0.9179 -7.0351682,-0.1044 -9.6785596,2.4749 -2.5792993,2.6434 -3.3926804,6.3511 -2.4748384,9.6785 3.3273793,0.9178 7.035097,0.1044 9.678489,-2.4749 2.579299,-2.6433 3.392751,-6.3511 2.474909,-9.6785 z"
+           id="path2986-1-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fa4900;fill-opacity:1;stroke:none"
+           d="m 12.000025,1034.2059 c -3.0018244,1.7038 -5.0484296,4.9008 -5.0937496,8.5938 0.04532,3.693 2.0919254,6.8899 5.0937496,8.5937 3.001825,-1.7038 5.04843,-4.9007 5.09375,-8.5937 -0.04532,-3.693 -2.091925,-6.89 -5.09375,-8.5938 z"
+           id="path2986"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fa2a00;fill-opacity:1;stroke:none"
+           d="m 19.800268,1048.1624 c 0.917843,-3.3274 0.104391,-7.0352 -2.474909,-9.6786 -2.643391,-2.5793 -6.351109,-3.3927 -9.6784884,-2.4748 -0.9178422,3.3274 -0.1044609,7.0351 2.4748384,9.6785 2.643391,2.5793 6.35118,3.3927 9.678559,2.4749 z"
+           id="path2986-7-0-4"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fa4900;fill-opacity:1;stroke:none"
+           d="m 23.0312,1040.3622 c -1.7038,-3.0019 -4.9008,-5.0485 -8.5938,-5.0938 -3.693,0.045 -6.8899,2.0919 -8.5937,5.0938 1.7038,3.0018 4.9007,5.0484 8.5937,5.0937 3.693,-0.045 6.89,-2.0919 8.5938,-5.0937 z"
+           id="path2986-7-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fa6900;fill-opacity:1;stroke:none"
+           d="m 19.800239,1032.5619 c -3.32738,-0.9178 -7.035168,-0.1044 -9.67856,2.4749 -2.5792991,2.6434 -3.3926804,6.3511 -2.4748382,9.6785 3.3273792,0.9179 7.0350972,0.1045 9.6784892,-2.4748 2.579299,-2.6434 3.392751,-6.3512 2.474909,-9.6786 z"
+           id="path2986-7-0-42"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#fa9900;fill-opacity:1;stroke:none"
+           d="m 12.000025,1029.331 c -3.0018246,1.7038 -5.0484296,4.9008 -5.0937496,8.5938 0.04532,3.693 2.091925,6.8899 5.0937496,8.5937 3.001825,-1.7038 5.04843,-4.9007 5.09375,-8.5937 -0.04532,-3.693 -2.091925,-6.89 -5.09375,-8.5938 z"
+           id="path2986-7"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         ry="2.875"
+         y="1033.8622"
+         x="5.8125"
+         height="12.9375"
+         width="12.9375"
+         id="rect3988"
+         style="fill:#ce2200;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#f4d7d7;fill-opacity:1;stroke:none"
+         id="rect3990"
+         width="11.75"
+         height="11.75"
+         x="6.40625"
+         y="1034.4559"
+         ry="2.6111112" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3992"
+         y="1043.9052"
+         x="7.3398438"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b51e00;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+         xml:space="preserve"><tspan
+           style="font-size:10px;fill:#b51e00;fill-opacity:1"
+           y="1043.9052"
+           x="7.3398438"
+           id="tspan3994"
+           sodipodi:role="line">拼</tspan></text>
+    </g>
+  </g>
+</svg>
