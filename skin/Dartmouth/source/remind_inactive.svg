@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3179"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="remind_inactive.svg"
+   inkscape:export-filename="/home/marguerite/Dartmouth/remind_inactive.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3181">
+    <linearGradient
+       id="linearGradient4505"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4507" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4797"
+       id="pattern4808"
+       patternTransform="translate(1.1499252e-8,5.8789062e-5)" />
+    <linearGradient
+       id="linearGradient3963">
+      <stop
+         style="stop-color:#00dd00;stop-opacity:1;"
+         offset="0"
+         id="stop3965" />
+      <stop
+         style="stop-color:#000e00;stop-opacity:1;"
+         offset="1"
+         id="stop3967" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient3971"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient3973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient3975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient3977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient3995"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient3997"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="16.280702"
+       height="16"
+       patternTransform="translate(0.40320484,1036.5473)"
+       id="pattern4028">
+      <flowRoot
+         transform="matrix(0.03508772,0,0,0.03508772,-4.7817983,-13.410216)"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#radialGradient3997);fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+         id="flowRoot3187"
+         xml:space="preserve"><flowRegion
+           style="fill:url(#radialGradient3975);fill-opacity:1"
+           id="flowRegion3189"><rect
+             style="fill:url(#radialGradient3973);fill-opacity:1"
+             y="280.93362"
+             x="114.28571"
+             height="637.14288"
+             width="557.14288"
+             id="rect3191" /></flowRegion><flowPara
+           style="font-size:512px;fill:url(#radialGradient3995);fill-opacity:1"
+           id="flowPara3193">汉</flowPara></flowRoot>    </pattern>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient4789"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient4791"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient4793"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963"
+       id="radialGradient4795"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2495331e-7,-2.3063149,3.0954361,-1.6770693e-7,-1937.3322,1620.0466)"
+       cx="409.37219"
+       cy="755.91907"
+       fx="409.37219"
+       fy="755.91907"
+       r="232" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="16.280702"
+       height="16"
+       patternTransform="translate(0.40320484,1036.5473)"
+       id="pattern4797">
+      <flowRoot
+         transform="matrix(0.03508772,0,0,0.03508772,-4.7817983,-13.410216)"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#radialGradient4795);fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+         id="flowRoot4781"
+         xml:space="preserve"><flowRegion
+           style="fill:url(#radialGradient4791);fill-opacity:1"
+           id="flowRegion4783"><rect
+             style="fill:url(#radialGradient4789);fill-opacity:1"
+             y="280.93362"
+             x="114.28571"
+             height="637.14288"
+             width="557.14288"
+             id="rect4785" /></flowRegion><flowPara
+           style="font-size:512px;fill:url(#radialGradient4793);fill-opacity:1"
+           id="flowPara4787">汉</flowPara></flowRoot>    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="16.280703"
+       height="16"
+       patternTransform="translate(0.40320483,1036.5472)"
+       id="pattern4805">
+      <rect
+         id="rect4803"
+         y="0"
+         x="0"
+         height="16"
+         width="16.280703"
+         style="fill:url(#pattern4808);stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="12.775717"
+     inkscape:cy="9.9236577"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4511"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       transform="translate(0,1028.3622)"><flowRegion
+         id="flowRegion4513"><rect
+           id="rect4515"
+           width="20.3125"
+           height="20.375"
+           x="3.5"
+           y="3.5625" /></flowRegion><flowPara
+         id="flowPara4517">han汉</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#becfd2;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       x="4.0625"
+       y="1046.0497"
+       id="text4519"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4521"
+         x="4.0625"
+         y="1046.0497"
+         style="fill:#becfd2;fill-opacity:1">联</tspan></text>
+  </g>
+</svg>

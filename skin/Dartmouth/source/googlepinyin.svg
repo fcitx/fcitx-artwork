@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="googlepinyin.svg"
+   inkscape:export-filename="/home/marguerite/Dartmouth/googlepinyin.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="11.755733"
+     inkscape:cy="14.390693"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3759"
+       width="24"
+       height="24"
+       x="0"
+       y="1028.3622" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e7110c;fill-opacity:1;stroke:none"
+       id="path2987"
+       sodipodi:cx="11.428572"
+       sodipodi:cy="17.839285"
+       sodipodi:rx="4.5535712"
+       sodipodi:ry="4.5535712"
+       d="m 15.982143,17.839285 c 0,2.514868 -2.038703,4.553571 -4.553571,4.553571 -2.5148682,0 -4.5535715,-2.038703 -4.5535715,-4.553571 0,-2.514868 2.0387033,-4.553571 4.5535715,-4.553571 2.514868,0 4.553571,2.038703 4.553571,4.553571 z"
+       transform="matrix(1.0490196,0,0,1.0490196,6.4888828,1025.8939)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#37679a;fill-opacity:1;stroke:none"
+       id="path2986"
+       sodipodi:cx="5.5803571"
+       sodipodi:cy="13.151786"
+       sodipodi:rx="10.044642"
+       sodipodi:ry="10.044642"
+       d="m 15.625,13.151786 c 0,5.547503 -4.49714,10.044642 -10.0446429,10.044642 -5.54750287,0 -10.0446425,-4.497139 -10.0446425,-10.044642 0,-5.547503 4.49713963,-10.0446426 10.0446425,-10.0446426 C 11.12786,3.1071434 15.625,7.604283 15.625,13.151786 z"
+       transform="matrix(0.96,0,0,0.96,5.0312499,1027.1159)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       x="4.4587049"
+       y="1044.0308"
+       id="text3767"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3769"
+         x="4.4587049"
+         y="1044.0308"
+         style="font-size:12px;fill:#ffffff">拼</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#fffa05;fill-opacity:1;stroke:none"
+       id="path3757"
+       sodipodi:cx="14.598214"
+       sodipodi:cy="9.5803576"
+       sodipodi:rx="4.5982141"
+       sodipodi:ry="4.5982141"
+       d="m 19.196428,9.5803576 c 0,2.5395234 -2.05869,4.5982144 -4.598214,4.5982144 C 12.058691,14.178572 10,12.119881 10,9.5803576 10,7.040834 12.058691,4.9821434 14.598214,4.9821434 c 2.539524,0 4.598214,2.0586906 4.598214,4.5982142 z"
+       transform="matrix(0.65048542,0,0,0.65048542,5.7674671,1041.4026)" />
+  </g>
+</svg>

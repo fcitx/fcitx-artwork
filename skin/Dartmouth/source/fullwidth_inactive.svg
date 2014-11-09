@@ -13,13 +13,25 @@
    height="22.55357"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="fullwidth_active.svg"
-   inkscape:export-filename="/home/marguerite/Documents/fcitx-branding-12.3/fullwidth_active.png"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="fullwidth_inactive.svg"
+   inkscape:export-filename="/home/marguerite/Dartmouth/fullwidth_inactive.png"
    inkscape:export-xdpi="96.879997"
    inkscape:export-ydpi="96.879997">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         style="stop-color:#66ff00;stop-opacity:1"
+         offset="0"
+         id="stop3757" />
+      <stop
+         style="stop-color:#44aa00;stop-opacity:1"
+         offset="1"
+         id="stop3759" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"

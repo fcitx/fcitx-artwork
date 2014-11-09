@@ -13,9 +13,9 @@
    height="22.55357"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="punc_inactive.svg"
-   inkscape:export-filename="/home/marguerite/Documents/fcitx-branding-12.3/fullwidth_inactive.png"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="punc_active.svg"
+   inkscape:export-filename="/home/marguerite/Dartmouth/punc_active.png"
    inkscape:export-xdpi="96.879997"
    inkscape:export-ydpi="96.879997">
   <defs
@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="8"
      inkscape:cx="12.055513"
-     inkscape:cy="14.478602"
+     inkscape:cy="14.541102"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -102,29 +102,10 @@
          id="tspan4628"
          x="7"
          y="10.05357" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#becfd2;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
-       x="192.60715"
-       y="252.12109"
-       id="text4630"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4632"
-         x="192.60715"
-         y="252.12109"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#becfd2;fill-opacity:1;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'">，</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#becfd2;fill-opacity:1;stroke:none;font-family:Oxygen Mono;-inkscape-font-specification:Oxygen Mono"
-       x="202.85715"
-       y="258.24612"
-       id="text4634"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4636"
-         x="202.85715"
-         y="258.24612"
-         style="font-size:32px;fill:#becfd2;fill-opacity:1">。</tspan></text>
+    <path
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#86c30f;fill-opacity:1;stroke:none;font-family:'文泉驿微米黑';-inkscape-font-specification:'文泉驿微米黑'"
+       d="M 4.25 4.0625 L 4.25 8.1875 L 6.125 8.1875 L 4 12.6875 L 5.875 12.6875 L 9.125 8.1875 L 9.125 4.0625 L 4.25 4.0625 z M 14.125 10.0625 C 12.874996 10.062505 11.83333 10.479171 11 11.3125 C 10.166665 12.145836 9.7499993 13.145835 9.75 14.3125 C 9.7499993 15.479166 10.166665 16.479165 11 17.3125 C 11.83333 18.14583 12.874996 18.562496 14.125 18.5625 C 15.29166 18.562496 16.291659 18.14583 17.125 17.3125 C 17.958324 16.479165 18.374991 15.479166 18.375 14.3125 C 18.374991 13.145835 17.958324 12.145836 17.125 11.3125 C 16.291659 10.479171 15.29166 10.062505 14.125 10.0625 z M 14.125 12.0625 C 14.708328 12.062503 15.22916 12.270836 15.6875 12.6875 C 16.145826 13.104169 16.374993 13.645835 16.375 14.3125 C 16.374993 14.979167 16.145826 15.541666 15.6875 16 C 15.22916 16.458332 14.708328 16.687498 14.125 16.6875 C 13.458329 16.687498 12.895829 16.458332 12.4375 16 C 11.979164 15.541666 11.749997 14.979167 11.75 14.3125 C 11.749997 13.645835 11.979164 13.104169 12.4375 12.6875 C 12.895829 12.270836 13.458329 12.062503 14.125 12.0625 z "
+       transform="translate(193.85714,243.31753)"
+       id="text4630" />
   </g>
 </svg>
